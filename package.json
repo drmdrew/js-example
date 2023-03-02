@@ -19,7 +19,7 @@
   "homepage": "https://github.com/drmdrew/js-example#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "mocha": "^5.2.0"
+    "mocha": "^10.2.0"
   },
   "devDependencies": {
     "eslint": "^5.7.0",
